@@ -1,0 +1,22 @@
+div{
+width:625px;
+background-color: green;
+}
+#blok1_szefler:hover
+{
+    background-color: gold;
+    font-size:20mm
+}
+#blok2_szefler:hover
+{
+    background-color: silver;
+    font-size:20mm
+}
+#blok3_szefler:hover
+{
+    background-color: blue;
+    font-size:20mm
+}
+<--Funkcja hover sprawia że styl css zostanie zastosowany
+nawet jeśli użytkownik nie kliknął w np. link, a tylko na niego najechał,-->
+<--Emilia Szefler-->
